@@ -1,4 +1,4 @@
-<h2 align="center">Hi there 👋 My name is Chris!</h2>
+<h2 align="center">Hi there 👋 my name is Chris!</h2>
 
 <!-- <div style="display: flex; justify-content: center;">
   <a href="https://www.chrislandschoot.com/binaural-externalization">
