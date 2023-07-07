@@ -1,6 +1,10 @@
 <h2 align="center">Hi there 👋 My name is Chris!</h2>
 
-<p style="text-align: center"><a href="https://www.chrislandschoot.com/binaural-externalization"><img src="videos/binaural_rotation.gif" width="50%" height="auto"></a></p>
+<!-- <div style="display: flex; justify-content: center;">
+  <a href="https://www.chrislandschoot.com/binaural-externalization">
+    <img src="videos/binaural_rotation.gif" style="width: 50%; height: auto;">
+  </a>
+</div> -->
 
 **I am an audio and acoustics scientist working on advancing audio AI/ML and spatial audio capabilities.**
 
