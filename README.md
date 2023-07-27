@@ -6,7 +6,7 @@
   </a>
 </div> -->
 
-**I am an audio/acoustics machine learning engineer working on advancing audio AI/ML and spatial audio capabilities.**
+**I am an audio machine learning engineer and researcher working on advancing audio AI/ML and spatial audio capabilities.**
 
 My recent work has focused on [binaural externalization](https://www.chrislandschoot.com/binaural-externalization), [audio waveform diffusion](https://github.com/crlandsc/tiny-audio-diffusion) for generative audio, and [audio source separation](https://github.com/crlandsc/Music-Demixing-with-Band-Split-RNN) for music "demixing".
 
