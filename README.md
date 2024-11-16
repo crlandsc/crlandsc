@@ -10,7 +10,7 @@
 
 My recent work has focused on [binaural externalization](https://www.chrislandschoot.com/binaural-externalization), [audio waveform diffusion](https://github.com/crlandsc/tiny-audio-diffusion) for generative audio, and [audio source separation](https://github.com/crlandsc/Music-Demixing-with-Band-Split-RNN) for music "demixing".
 
-I also make music under the name [🎶After August](https://www.after-august.com/).
+I also make music under the name [🎶After August](https://www.youtube.com/@AfterAugust).
 
 Please [reach out](mailto:crlandschoot@gmail.com) if you have any questions, or if you are interested in chatting about audio, music, AI/ML, spatial audio, or all of the above!
 
