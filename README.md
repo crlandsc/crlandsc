@@ -26,3 +26,5 @@ Follow my work, writing, and music on:
   <a href="https://www.facebook.com/TheAfterAugust/"><img src="images/facebook.webp" width="15px"></a> <a href="https://www.facebook.com/TheAfterAugust/">Facebook</a> |
   <a href="https://www.instagram.com/the_after_august/"><img src="images/instagram.png" width="15px"></a> <a href="https://www.instagram.com/the_after_august/">Instagram</a>
 </p>
+
+Go Bills! <img src="https://upload.wikimedia.org/wikipedia/en/7/77/Buffalo_Bills_logo.svg" alt="Buffalo Bills Logo" width="20" height="20" style="vertical-align: middle;">
