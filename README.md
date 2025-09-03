@@ -18,6 +18,7 @@ Follow my work, writing, and music on:
 
 <p align="center">
   <a href="https://www.chrislandschoot.com/"><img src="images/cl.png" width="15px"></a> <a href="https://www.chrislandschoot.com/">My Website</a> |
+  <a href="https://www.after-august.com/"><img src="images/after-august.png" width="14x"></a> <a href="https://www.after-august.com/">My Music</a> |
   <a href="https://medium.com/@crlandschoot"><img src="images/medium.png" width="15px"></a> <a href="https://medium.com/@crlandschoot">Medium</a> |
   <a href="https://www.linkedin.com/in/christopher-landschoot/"><img src="images/linkedin.ico" width="15px"></a> <a href="https://www.linkedin.com/in/christopher-landschoot/">LinkedIn</a>
   <br>
