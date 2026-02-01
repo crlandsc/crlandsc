@@ -6,13 +6,13 @@
   </a>
 </div> -->
 
-**I am an audio machine learning engineer and researcher working on advancing audio AI/ML and spatial audio capabilities.**
+**I am an audio machine learning engineer and researcher working on advancing audio and music AI/ML capabilities.**
 
-My recent work has focused on [binaural externalization](https://www.chrislandschoot.com/binaural-externalization), [audio waveform diffusion](https://github.com/crlandsc/tiny-audio-diffusion) for generative audio, and [audio source separation](https://github.com/crlandsc/Music-Demixing-with-Band-Split-RNN) for music "demixing".
+Some of my recent work has focused on [audio waveform diffusion](https://github.com/crlandsc/tiny-audio-diffusion) for generative audio, [audio source separation](https://github.com/crlandsc/Music-Demixing-with-Band-Split-RNN) for music "demixing", and [binaural externalization](https://www.chrislandschoot.com/binaural-externalization). I have also open-sourced a couple loss function packages for audio source separation and enhancement ([torch-l1-snr](https://github.com/crlandsc/torch-l1-snr), [torch-log-wmse](https://github.com/crlandsc/torch-log-wmse)).
 
 I also make music under the name [🎶After August](https://www.youtube.com/@AfterAugust).
 
-Please [reach out](mailto:crlandschoot@gmail.com) if you have any questions, or if you are interested in chatting about audio, music, AI/ML, spatial audio, or all of the above!
+Please [reach out](https://chrislandschoot.com/#contact) if you have any questions, or if you are interested in chatting about audio, music, AI/ML, spatial audio, or all of the above!
 
 Follow my work, writing, and music on:
 
