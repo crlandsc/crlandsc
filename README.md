@@ -17,10 +17,10 @@
 
 ### What I'm Building
 
-- **[tiny-audio-diffusion](https://github.com/crlandsc/tiny-audio-diffusion)** — Music & audio waveform diffusion for local training & inference on consumer GPUs (<2GB VRAM)
-- **[Music-Demixing-with-Band-Split-RNN](https://github.com/crlandsc/Music-Demixing-with-Band-Split-RNN)** — Music source separation with the [BSRNN](https://arxiv.org/abs/2209.15174) architecture for the [MDX-23 challenge](https://www.aicrowd.com/challenges/sound-demixing-challenge-2023)
 - **[torch-l1-snr](https://github.com/crlandsc/torch-l1-snr)** [<img src="images/pypi.png" width="14px">](https://pypi.org/project/torch-l1-snr/) — PyTorch L1-SNR loss functions for audio source separation & enhancement
 - **[torch-log-wmse](https://github.com/crlandsc/torch-log-wmse)** [<img src="images/pypi.png" width="14px">](https://pypi.org/project/torch-log-wmse/) — PyTorch audio quality metric & loss function for audio source separation & enhancement
+- **[tiny-audio-diffusion](https://github.com/crlandsc/tiny-audio-diffusion)** — Music & audio waveform diffusion for local training & inference on consumer GPUs (<2GB VRAM)
+- **[Music-Demixing-with-Band-Split-RNN](https://github.com/crlandsc/Music-Demixing-with-Band-Split-RNN)** — Music source separation with the [BSRNN](https://arxiv.org/abs/2209.15174) architecture for the [MDX-23 challenge](https://www.aicrowd.com/challenges/sound-demixing-challenge-2023)
 - **[Binaural Externalization](https://www.chrislandschoot.com/binaural-externalization)** — Spatial audio algorithm for externalizing stereo and binaural audio
 
 ### What I'm Writing
