@@ -32,9 +32,9 @@
 
 ### Music I'm Making
 
-- I make music under the name [🎶After August](https://www.after-august.com/).
+- I make music under the name [🎶After August](https://www.after-august.com/)
 - My album [*Moments*](https://open.spotify.com/album/5l3DIG5E21IDJLFvNztR7z?si=ogfjKuOMSESic0jlfGBzDg) is out everywhere!
-<!-- - Check out my new single [*Dad Mode*]() -->
+- Check out my new single [*Dad Mode*](https://youtu.be/8t_h30hbf-Y)
 
 <p align="center">
   <a href="https://www.after-august.com/"><img src="images/after-august.png" width="14px"></a>&nbsp;<a href="https://www.after-august.com/">Website</a> ·
