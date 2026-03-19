@@ -17,6 +17,7 @@
 
 ### What I'm Building
 
+- **[moises-light](https://github.com/crlandsc/moises-light)** [<img src="images/pypi.png" width="14px">](https://pypi.org/project/moises-light/) — Unofficial PyTorch implementation of the [Moises-Light](https://arxiv.org/abs/2510.06785) band-split U-Net for music source separation
 - **[torch-l1-snr](https://github.com/crlandsc/torch-l1-snr)** [<img src="images/pypi.png" width="14px">](https://pypi.org/project/torch-l1-snr/) — PyTorch L1-SNR loss functions for audio source separation & enhancement
 - **[torch-log-wmse](https://github.com/crlandsc/torch-log-wmse)** [<img src="images/pypi.png" width="14px">](https://pypi.org/project/torch-log-wmse/) — PyTorch audio quality metric & loss function for audio source separation & enhancement
 - **[tiny-audio-diffusion](https://github.com/crlandsc/tiny-audio-diffusion)** — Music & audio waveform diffusion for local training & inference on consumer GPUs (<2GB VRAM)
